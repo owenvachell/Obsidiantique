@@ -9,7 +9,7 @@ Appreciative donations are welcome but not mandatory.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O03Z55T)
 
 ## Installation
-1. Download or copy `obsidiantique.css` to your .obsidian/themese directory inside your vault
+1. Download or copy `obsidiantique.css` to your .obsidian/themes directory inside your vault
 2. Head over the appearance settings in Obsidian and select the theme from the drop down menu
 
 ### Attribution
