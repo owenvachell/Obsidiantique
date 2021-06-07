@@ -10,7 +10,7 @@ Appreciative donations are welcome but not mandatory.
 
 ## Installation
 1. Download or copy `obsidiantique.css` to your .obsidian/themes directory inside your vault
-2. Head over the appearance settings in Obsidian and select the theme from the drop down menu
+2. Head over to the appearance settings in Obsidian and select the theme from the drop down menu
 
 ### Attribution
 I don't consider myself a CSS developer. I know enough to get the things done that I need/want, albeit not necesseraily in the most code efficient way. So this theme contains a few snippets from those more talented in the CSS arena than I am in the Obsidian community. To acknowledge them, I wanted to put this attribution section high up this page, rather than buried at the bottom. 
